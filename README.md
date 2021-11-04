@@ -137,7 +137,7 @@ ________________________________________________________________________________
  [2. Robotic Arm done (missing two flex sensors, but code completely works)](https://drive.google.com/file/d/125KFlFFFpU-OIzBG-1Z3dFMdSSbtWHqi/view?usp=sharing)
  
 3. Robotic Arm fully contructed
-<img src="IMG_20210609_160046.jpg?raw=true" width="325">
+<img src="https://github.com/hcoyle91/Robot-Hand/blob/e430b16c6d871e3e28249e15b37e499d08cd1535/picture%2010.png" width="325">
  
 4. Final assembly with first prototype
 <img src="IMG_20210609_155017.jpg?raw=true" width="325">
