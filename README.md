@@ -140,7 +140,7 @@ ________________________________________________________________________________
 <img src="https://github.com/hcoyle91/Robot-Hand/blob/e430b16c6d871e3e28249e15b37e499d08cd1535/picture%2010.png" width="325">
  
 4. Final assembly with first prototype
-<img src="IMG_20210609_155017.jpg?raw=true" width="325">
+<https://github.com/hcoyle91/Robot-Hand/blob/007f299c76986c3f3cd28e107b4acc76967f4d24/picture%209.png" width="325">
  
  ________________________________________________________________________________________________________________________________________________________________________
   
