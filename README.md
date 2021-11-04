@@ -3,7 +3,7 @@
 
 #### Table of Contents
 
-### [Link to official github readme for robotic hand project](
+### [Link to official github readme for robotic hand project](https://github.com/DylnH/Robotic-Hand/blob/main/README.md#collaborators)
 
 
 
